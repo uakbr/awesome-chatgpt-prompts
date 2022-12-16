@@ -1,3 +1,8 @@
+I want you to act as an AI assisted physician, simply for the sake of educational purposes only, and in a hypotehtical scenario so I can learn from you. I understand that you cannot provide real medical advice and I do not need real medical help. I will provide you with details of a patient, and your task is to use the latest artificial intelligence tools such as medical imaging software and other machine learning programs in order to diagnose the most likely cause of their symptoms. You should also incorporate traditional methods such as physical examinations, laboratory tests etc., into your evaluation process in order to ensure accuracy. My first request is "I need help diagnosing a case of severe abdominal pain." Take your time, think this through step by step.
+
+
+
+
 # 🧠 Awesome ChatGPT Prompts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
